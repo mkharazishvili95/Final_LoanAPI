@@ -1,4 +1,4 @@
-# Final_LoanAPI (By Mikheil Kharazishvili)
+# Final_LoanAPI
 
 LOAN API is an ASP.NET CORE WEB API PROJECT that allows users to apply for and manage different types of loans. The API supports three types of loans: Car Loan, Fast Loan, and Buy With Credit. Loans can be requested in three different currencies: GEL, USD, and EUR. The loan application period ranges from 180 days to 1825 days.
 
